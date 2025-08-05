@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm RobotMasterC/Robility
 
-<!--
-**RobotMasterC/RobotMasterC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am  a 13 y/o Hack Clubber**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+-  Mostly hardware projects 
+-  Occasional software projects 
+---
+
+## Tools & Tech
+**Languages:**  
+`Python` `C/C++`
+
+**Hardware:**  
+`RP2040` `RP2350` `ESP32` `SHT30`
+
+**Apps and Tools:**  
+`KiCad` `Fusion 360` `Zed`
+
+---
+
+## 📈 Wakatime/Hackatime Stats
+
+
+
+---
