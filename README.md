@@ -21,7 +21,7 @@
 
 ---
 
-## 📈 Wakatime/Hackatime Stats
+## Wakatime/Hackatime Stats
 
 
 
